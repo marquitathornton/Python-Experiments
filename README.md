@@ -6,10 +6,12 @@ This repository contains initial code I created when learning to use GitHub as p
 Future plans for this repository include adding a sample data file and a [Jupyter](https://jupyter.org/) that will interact with the file.
 ## About Me
 I am Marquita Jones Thornton, and I work in the Automotive Industry. **Data Science** is becoming one of my passions.
+
 Some fun facts about me include:
 - Deployed to Iraq
 - Served in the MS ARNG for 23 years (joined at the age of 17)
 - Successfully completed a multi-domain training exercise in Honduras
+
 This is my professional headshot that I use for many of my social accounts as well as my workplace photo.  
 <img width="2048" height="1362" alt="20240612_MarquitaThornton-19_Web" src="https://github.com/user-attachments/assets/94b21bde-8699-4aa0-b5f3-6431c2fcc3a6" />
 
