@@ -6,5 +6,9 @@ Future plans for this repository include adding a sample data file and a [Jupyte
 ## About Me
 ---
 I am Marquita Jones Thornton, and I work in the Automotive Industry. **Data Science** is becoming one of my passions.
-Some fun facts about me:
-- 
+Some fun facts about me include:
+- first item Deployed to Iraq
+- second item Served in the MS ARNG for 23 years (joined at the age of 17)
+- third item Successfully completed a multi-domain training exercise in Honduras
+This is my professional headshot that I use for many of my social accounts as well as my workplace photo.  
+![alt text]()
