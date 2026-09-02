@@ -11,4 +11,4 @@ Some fun facts about me include:
 - second item Served in the MS ARNG for 23 years (joined at the age of 17)
 - third item Successfully completed a multi-domain training exercise in Honduras
 This is my professional headshot that I use for many of my social accounts as well as my workplace photo.  
-![alt text](20240612_MarquitaThornton-19_web)
+![alt text](20240612_MarquitaThornton-19_web.jpg)
